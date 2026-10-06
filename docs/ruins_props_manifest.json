@@ -1,0 +1,134 @@
+[
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\jungle\\decors\\vegetations\\bad_distance_sans_croisillons\\fo_s1_arbragrelot.max",
+    "source_textures": [
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_arbragrelot_branche_au.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_arbragrelot_feuillage_au.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_arbragrelot_feuillage_light_au.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_arbragrelot_tronc_au.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_arbragrelot_tronc_moss_au.png"
+    ],
+    "name": "fo_s1_arbragrelot",
+    "bounds_xyz_source": [
+      [
+        -15.240839958190918,
+        12.960029602050781
+      ],
+      [
+        -14.23487663269043,
+        16.04195785522461
+      ],
+      [
+        -8.616342544555664,
+        29.129026412963867
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 576
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\jungle\\decors\\vegetations\\bad_distance_sans_croisillons\\fo_s3_champignou_a.max",
+    "source_textures": [
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_s3_champichapeau_sp.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_s3_champicorolle_sp.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_s3_champied_sp.png"
+    ],
+    "name": "fo_s3_champignou_a",
+    "bounds_xyz_source": [
+      [
+        -1.323437213897705,
+        0.5739434361457825
+      ],
+      [
+        -0.9761452674865723,
+        0.8056812882423401
+      ],
+      [
+        -0.3212538957595825,
+        2.98362135887146
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 515
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\jungle\\decors\\vegetations\\bad_distance_sans_croisillons\\fo_s3_champignou_b.max",
+    "source_textures": [
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_s3_champichapeau_red_sp.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_s3_champicorolle_red_sp.png",
+      "assets/ryzom/source/graphics/stuff/jungle/decors/_textures/vegetations/fo_s3_champied_sp.png"
+    ],
+    "name": "fo_s3_champignou_b",
+    "bounds_xyz_source": [
+      [
+        -1.323437213897705,
+        0.5739434361457825
+      ],
+      [
+        -0.9761452674865723,
+        0.8056812882423401
+      ],
+      [
+        -0.3212538957595825,
+        2.98362135887146
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 515
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\landscape\\ligo\\jungle\\max\\zonematerial-foret-ruines_newbieland.max",
+    "source_textures": [
+      "assets/ryzom/source/graphics/stuff/generique/agents/_textures/accessories/ge_mission_ruine_burn.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma-bourgeons3_verues2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma_autel_wall.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma_gazon.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma_lampe.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma_loupiotte.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma_mairie2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma_planche.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/ma_terre.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-ecorce1.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-ecorce2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-feuilles.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-int-1.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-int-2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-parquet.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-porte1.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-porte2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-b-trognon1.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-bourgeons.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-bourgeons3_verues.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-bourgeons_verrues.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma-mairie-vitrail.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_agora2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_agora_hublot.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_agora_toit.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_ambre.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_ascenceur.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_chamignondown.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_chamignontop_2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_debris-trans.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_interbas.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_portail_matis2.png",
+      "assets/ryzom/source/graphics/stuff/matis/decors/_textures/batiments/vv2/ma_solkoupp.png"
+    ],
+    "name": "zonematerial-foret-ruines_newbieland",
+    "bounds_xyz_source": [
+      [
+        53.773834228515625,
+        307.1768798828125
+      ],
+      [
+        14.963729858398438,
+        306.1453552246094
+      ],
+      [
+        -1.5959806442260742,
+        22.75847816467285
+      ]
+    ],
+    "mesh_count": 5,
+    "triangles": 57125
+  }
+]

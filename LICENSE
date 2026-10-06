@@ -1,9 +1,10 @@
 Scope: this MIT license applies only to this project's original runtime scripts
 (scripts/), Godot scene wiring and controller logic, web/shell.html,
-original tools/ scripts (except the conversion adapter noted below), and
+original tools/ scripts (except GPL conversion adapters noted below), and
 .github/workflows/. It does not relicense embedded
 meshes, textures, animations, terrain/layout data, third-party tools, or the
-GPL-licensed conversion adapter. See THIRD_PARTY_NOTICES.md for those licenses.
+GPL-licensed convert_assets.py, convert_ruins_terrain.py and convert_ruins_props.py.
+See THIRD_PARTY_NOTICES.md for those licenses.
 
 MIT License
 

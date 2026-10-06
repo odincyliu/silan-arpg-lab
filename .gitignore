@@ -6,4 +6,8 @@ __pycache__/
 export_credentials.cfg
 *.tmp
 assets/ryzom/source/ryzomcore_graphics-rev5.7z
+# 新來源解壓副本保留本機；選用的原始檔由 manifest 明確加入版本控制。
+assets/ryzom/source/graphics/landscape/_texture_tiles/jungle/
+assets/ryzom/source/graphics/stuff/jungle/decors/_textures/
+assets/ryzom/source/graphics/stuff/jungle/decors/vegetations/
 docs/*debug*.log

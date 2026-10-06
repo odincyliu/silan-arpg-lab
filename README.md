@@ -2,16 +2,30 @@
 
 **[瀏覽器試玩](https://odincyliu.github.io/silan-arpg-lab/)** · [素材與授權](THIRD_PARTY_NOTICES.md)
 
-非官方 Godot 4 Silan 探索原型。以 Ryzom 開放美術實驗 ARPG 移動、相機與動畫；地形高度及道路仍為暫時重建。
+非官方 Godot 4 Silan 探索原型。預設展示直接轉換的 **Shattered Ruins 遺跡區塊**；另保留第一版大型探索區作為移動測試場景。
 
 獨立 Godot 4 專案，使用 Quaternius 動畫庫附帶的黃色 Mannequin。角色方案依使用者最新指示，取代原先的 Universal Base Characters。
+
+## 原始地點：Shattered Ruins
+
+![原始遺跡區塊](docs/shattered_ruins_overview.png)
+
+預設載入 `scenes/world/shattered_ruins.tscn`，先顯示全區俯瞰。按 **V** 切換角色探索，再按 V 返回俯瞰。
+
+- 原始 **320 × 320 m** 遺跡模板，完整保留模板內的遺跡群幾何與相對位置。
+- 直接讀取來源 MAX 最上層 NeL Painter 已評估曲面：**100 個 Bezier Patch**，實際高度約 **−5.14 至 10.26 m**；此場景不再使用人工緩坡。
+- **25,600 格原始地表配置**，保留來源 tile bank 索引、旋轉、256 象限、轉場 alpha 與頂點色彩，烘焙成圖集。
+- 11 個原始靜態植被實例，包含巨樹、arbragrelot 與兩種菇，沿用來源位置／角度／比例並貼齊原始地形；3 個動態粒子標記未重現。
+- 真實地形、原始建築與植物的靜態碰撞；沒有另行手畫道路。
+
+範圍是原始遺跡模板的完整區塊，**不是整張 Silan 地圖，也不是原遊戲逐像素復刻**。天空、霧與照明由 Godot 呈現；地表圖集重新取樣為 16 px/m，未包含 NeL 微位移、原引擎光照、NPC／動物、任務與動態特效。來源與驗證見 [RUINS_RESTORATION](docs/RUINS_RESTORATION.md)。
 
 ## 直接試玩
 
 Web：開啟上方網址，按「開始探索」。需支援 WebGL 2 的桌面瀏覽器；首次會下載 WASM 與遊戲資源。Web HUD 使用英文，頁面提供中文操作說明；尚未加入手機觸控操作。
 
 1. 用 `D:\funny\Godot_latest_version\Godot.exe` 匯入本資料夾的 `project.godot`。
-2. 按 **F5**。也可以開啟 `scenes/world/region_a.tscn` 後按 **F6**。
+2. 按 **F5**。也可以開啟 `scenes/world/shattered_ruins.tscn` 後按 **F6**。
 3. 或雙擊 `Play.cmd`，直接啟動遊戲。
 
 已使用 Godot **4.7.1 stable** 驗證。執行時不需要 Blender、Python、Ryzom Client、NeL、伺服器或網路。
@@ -45,9 +59,12 @@ GitHub Pages 設為 **GitHub Actions**。每次 push 至 `main`，`.github/workf
 | 按住右鍵拖曳 | 旋轉鏡頭；俯角限制 35–55° |
 | 左鍵／1 | UAL2 Melee_Hook 揮擊與 1.6 m 標記 |
 | 2 | 4 m 範圍標記 |
-| R | 回到村莊 |
+| R | 回到目前場景的出生點 |
+| V | 遺跡場景：切換全區俯瞰／角色探索 |
 
-## 這一版的範圍
+## 舊版大型移動測試區（Region A，保留）
+
+以下只描述 `scenes/world/region_a.tscn`；可在 Godot 開啟後按 F6。Web 預設展示的是上方原始遺跡。
 
 - 約 **1,280 × 1,120 m**，56 個靜態地面區塊，村莊到遺跡約 650–800 m；以 2.5 m/s 走路來回約 9–11 分鐘。
 - 真實 Silan 起始村莊、Shattered Ruins 網格、Ryzom birch／giant tree、Chlorogoo 瞭望塔與 Karavan sensor。

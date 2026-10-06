@@ -1,5 +1,10 @@
 # 待辦
 
+- [x] 原始 Silan 遺跡完整模板：100 Bezier 曲面、來源高度、25,600 地表格、完整遺跡群與 11 個靜態植被。
+- [x] 全區俯瞰／角色探索切換、靜態碰撞、Web 展示與來源清單。
+- [ ] 相鄰地形區塊、NeL 微位移／原始光照、3 個 FX 標記與原遊戲 NPC／動物。
+- 以下既有待辦針對保留的舊版 Region A。
+
 - [x] 獨立專案，不依賴使用者其他電腦的專案。
 - [x] 黄色 Mannequin＋UAL1 最小 locomotion＋UAL2 揮擊。
 - [x] CharacterBody3D、ARPG camera、技能尺度鉤子。

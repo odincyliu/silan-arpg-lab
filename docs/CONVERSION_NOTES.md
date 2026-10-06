@@ -1,5 +1,7 @@
 # 轉換決策與可追溯性
 
+**更新：目前預設原始遺跡場景已直接轉換 NeL Painter 最終曲面與地表資料。** 見 [RUINS_RESTORATION](RUINS_RESTORATION.md)。以下 A/B/C 的「暫時地形」限制專指仍保留的舊版 Region A，並非新預設遺跡場景。
+
 ## A：直接轉換的 Ryzom 內容
 
 - `zonematerial-foret-start_village_newbieland.max` → GLB：真正 Silan 起始村莊的一整組建築與外部碰撞殼。

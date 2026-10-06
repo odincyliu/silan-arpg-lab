@@ -1,10 +1,12 @@
 # 目前狀態
 
-更新：2026-10-06。版本：**可玩的第一版 Region A**，不是完整地形轉換或逐像素復刻。
+更新：2026-10-06。預設版本：**原始 Shattered Ruins 區塊展示**，詳見 [RUINS_RESTORATION](RUINS_RESTORATION.md)。直接轉換來源 100 曲面、25,600 地表格、完整遺跡群及 11 個靜態植被。V 切換全景／角色探索；不宣稱原引擎效果或逐像素復刻。
+
+以下記錄保留的 **第一版 Region A**，其地形仍為暫時近似。
 
 ## 已可使用
 
-- F5／F6 啟動 `region_a.tscn`，全程本機單人執行。
+- 開啟 `region_a.tscn` 後 F6，執行保留的舊版單人移動測試場景；F5 現在啟動原始遺跡。
 - Quaternius 黃色 Mannequin，Idle／Walk／Jog／Sprint、平滑停步混合；UAL2 Melee_Hook 揮擊。
 - CharacterBody3D，WASD、走／跑切換、衝刺、緩坡貼地、摔落恢復與手動重生。
 - 45° ARPG 相機、35–55°俯角限制、縮放、右鍵旋轉與鏡頭阻擋檢查。

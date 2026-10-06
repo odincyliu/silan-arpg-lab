@@ -44,6 +44,7 @@ jobs:
         run: |
           "$HOME/.local/bin/godot" --headless --editor --import --quit --path .
           "$HOME/.local/bin/godot" --headless --path . --script res://tools/check_prototype.gd
+          "$HOME/.local/bin/godot" --headless --path . --script res://tools/check_ruins.gd
       - name: Export Web release
         run: |
           mkdir -p build/web

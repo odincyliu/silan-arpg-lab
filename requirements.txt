@@ -1,3 +1,5 @@
 # 離線輔助工具使用 Python 標準庫；地圖檢視與貼圖轉檔使用 Pillow。
 # 安裝指令：python -m pip install -r requirements.txt
 Pillow>=9.5
+# 地形轉換由 Blender 內附 NumPy 執行；獨立資料分析環境使用此套件。
+numpy>=1.26

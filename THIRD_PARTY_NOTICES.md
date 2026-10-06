@@ -9,7 +9,7 @@ Silan ARPG Lab 是非官方探索原型，與 Ryzom、Nevrax、Winch Gate 或 Qu
 - 官方來源：[graphics](https://github.com/ryzom/ryzomcore_graphics)、[leveldesign](https://github.com/ryzom/ryzomcore_leveldesign)。
 - 官方原始壓縮包：[ryzomcore_graphics-rev5.7z](https://cdn.ryzom.dev/pub/assets/ryzomcore_graphics-rev5.7z)。
 - 授權文字：[Ryzom_FAL_1.3.txt](docs/licenses/Ryzom_FAL_1.3.txt)；保留上游附帶的完整雙授權文字。
-- 適用範圍：`assets/ryzom/`、`scenes/world/region_a.tscn` 與其中嵌入的 Ryzom 網格／貼圖，以及使用這些素材的遊戲畫面、預覽圖片。場景中獨立的原創控制邏輯仍按根目錄 LICENSE 使用。
+- 適用範圍：`assets/ryzom/`、`scenes/world/region_a.tscn`、`scenes/world/shattered_ruins.tscn` 與其中嵌入的 Ryzom 網格／貼圖，以及使用這些素材的遊戲畫面、預覽圖片。場景中獨立的原創控制邏輯仍按根目錄 LICENSE 使用。
 - 修改者：odincyliu 的 Silan ARPG Lab 專案，2026-10-06。修改包括 MAX／3DS 至 GLB 轉換、NeL 材質映射、貼圖打包、原始 Ligo 格網及植被座標轉為 Godot 資料、場景烘焙；地面高度及道路為原型的暫時重建。詳細見 [CONVERSION_NOTES](docs/CONVERSION_NOTES.md) 與 [ASSET_SOURCES](docs/ASSET_SOURCES.md)。
 - 選用原始檔與中間成果隨 repo 保存；未包含完整 2 GB 原始包，可由上述官方網址取得。Ryzom 衍生資產的再發布及修改須保留作者、來源、修改資訊與 FAL 1.3。
 
@@ -32,6 +32,7 @@ Web 版使用官方 Godot 4.7.1 stable 匯出模板。[Godot](https://godotengin
 
 - `tools/ryzom_converter/vendor/io_scene_max-main`：[nrgsille76/io_scene_max](https://github.com/nrgsille76/io_scene_max)，commit `37db107126f956f7219152671443080360565691`。上游 `import_max.py` 標示 GPL-2.0-or-later、LICENSE 是 GPL v2，而 `blender_manifest.toml` 宣告 GPL-3.0-or-later。原檔完整保留，未自行改寫上游聲明；本專案使用 GPL v3 或更新版進行這組工具的整合。
 - `tools/ryzom_converter/convert_assets.py` 是 MAX 材質適配與轉換包裝，依 **GPL-3.0-or-later** 提供。完整文字見 `tools/ryzom_converter/COPYING`。
+- `convert_ruins_terrain.py`、`convert_ruins_props.py` 使用上述 MAX 讀取器並轉換來源曲面／地表／植物，同樣依 **GPL-3.0-or-later** 提供；輸出美術仍為 Ryzom FAL 1.3 衍生資產。
 - `tools/ryzom_converter/import_nel3d.py`：[NeoSpark314/blenderNel3dImport](https://github.com/NeoSpark314/blenderNel3dImport)，Holger Dammertz，GPL v3；保存供研究，未用於最終轉換。
 - Blender、Python 與上述工具不包含於 Web 遊戲。使用 GPL 工具轉出的美術不因使用工具而自動改為 GPL；這裡的 Ryzom 衍生美術仍採 FAL 1.3。
 

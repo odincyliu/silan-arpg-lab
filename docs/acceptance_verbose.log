@@ -1,0 +1,415 @@
+WorkerThreadPool: 12 threads, 3 max low-priority.
+Godot Engine v4.7.1.stable.official.a13da4feb - https://godotengine.org
+TextServer: Added interface "Dummy"
+TextServer: Added interface "ICU / HarfBuzz / Graphite (Built-in)"
+Using "default" pen tablet driver...
+
+TextServer: Primary interface set to: "ICU / HarfBuzz / Graphite (Built-in)".
+CORE API HASH: 3769296884
+EDITOR API HASH: 3146738256
+Loading resource: res://tools/check_prototype.gd remapped: res://tools/check_prototype.gd
+Completed load for: 'res://tools/check_prototype.gd' remapped 'res://tools/check_prototype.gd' at thread -1
+SceneTreeFTI: traversal method DEFAULT
+Loaded system CA certificates
+Loading resource: res://scenes/world/region_a.tscn remapped: res://scenes/world/region_a.tscn
+Loading resource: res://scripts/world.gd remapped: res://scripts/world.gd
+Completed load for: 'res://scripts/world.gd' remapped 'res://scripts/world.gd' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_60_75.res remapped: res://assets/ryzom/meshes/chunk_60_75.res
+Loading resource: res://assets/ryzom/textures/ground.png remapped: res://assets/ryzom/textures/ground.png
+Loading resource: res://.godot/imported/ground.png-54ee8e5944e4275391cce4d694d48d79.ctex remapped: res://.godot/imported/ground.png-54ee8e5944e4275391cce4d694d48d79.ctex
+Completed load for: 'res://assets/ryzom/textures/ground.png' remapped 'res://assets/ryzom/textures/ground.png' at thread -1
+Completed load for: 'res://assets/ryzom/meshes/chunk_60_75.res' remapped 'res://assets/ryzom/meshes/chunk_60_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_61_75.res remapped: res://assets/ryzom/meshes/chunk_61_75.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_61_75.res' remapped 'res://assets/ryzom/meshes/chunk_61_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_62_75.res remapped: res://assets/ryzom/meshes/chunk_62_75.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_62_75.res' remapped 'res://assets/ryzom/meshes/chunk_62_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_63_75.res remapped: res://assets/ryzom/meshes/chunk_63_75.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_63_75.res' remapped 'res://assets/ryzom/meshes/chunk_63_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_64_75.res remapped: res://assets/ryzom/meshes/chunk_64_75.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_64_75.res' remapped 'res://assets/ryzom/meshes/chunk_64_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_65_75.res remapped: res://assets/ryzom/meshes/chunk_65_75.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_65_75.res' remapped 'res://assets/ryzom/meshes/chunk_65_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_66_75.res remapped: res://assets/ryzom/meshes/chunk_66_75.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_66_75.res' remapped 'res://assets/ryzom/meshes/chunk_66_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_67_75.res remapped: res://assets/ryzom/meshes/chunk_67_75.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_67_75.res' remapped 'res://assets/ryzom/meshes/chunk_67_75.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_60_74.res remapped: res://assets/ryzom/meshes/chunk_60_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_60_74.res' remapped 'res://assets/ryzom/meshes/chunk_60_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_61_74.res remapped: res://assets/ryzom/meshes/chunk_61_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_61_74.res' remapped 'res://assets/ryzom/meshes/chunk_61_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_62_74.res remapped: res://assets/ryzom/meshes/chunk_62_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_62_74.res' remapped 'res://assets/ryzom/meshes/chunk_62_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_63_74.res remapped: res://assets/ryzom/meshes/chunk_63_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_63_74.res' remapped 'res://assets/ryzom/meshes/chunk_63_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_64_74.res remapped: res://assets/ryzom/meshes/chunk_64_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_64_74.res' remapped 'res://assets/ryzom/meshes/chunk_64_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_65_74.res remapped: res://assets/ryzom/meshes/chunk_65_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_65_74.res' remapped 'res://assets/ryzom/meshes/chunk_65_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_66_74.res remapped: res://assets/ryzom/meshes/chunk_66_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_66_74.res' remapped 'res://assets/ryzom/meshes/chunk_66_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_67_74.res remapped: res://assets/ryzom/meshes/chunk_67_74.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_67_74.res' remapped 'res://assets/ryzom/meshes/chunk_67_74.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_60_73.res remapped: res://assets/ryzom/meshes/chunk_60_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_60_73.res' remapped 'res://assets/ryzom/meshes/chunk_60_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_61_73.res remapped: res://assets/ryzom/meshes/chunk_61_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_61_73.res' remapped 'res://assets/ryzom/meshes/chunk_61_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_62_73.res remapped: res://assets/ryzom/meshes/chunk_62_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_62_73.res' remapped 'res://assets/ryzom/meshes/chunk_62_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_63_73.res remapped: res://assets/ryzom/meshes/chunk_63_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_63_73.res' remapped 'res://assets/ryzom/meshes/chunk_63_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_64_73.res remapped: res://assets/ryzom/meshes/chunk_64_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_64_73.res' remapped 'res://assets/ryzom/meshes/chunk_64_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_65_73.res remapped: res://assets/ryzom/meshes/chunk_65_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_65_73.res' remapped 'res://assets/ryzom/meshes/chunk_65_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_66_73.res remapped: res://assets/ryzom/meshes/chunk_66_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_66_73.res' remapped 'res://assets/ryzom/meshes/chunk_66_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_67_73.res remapped: res://assets/ryzom/meshes/chunk_67_73.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_67_73.res' remapped 'res://assets/ryzom/meshes/chunk_67_73.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_60_72.res remapped: res://assets/ryzom/meshes/chunk_60_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_60_72.res' remapped 'res://assets/ryzom/meshes/chunk_60_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_61_72.res remapped: res://assets/ryzom/meshes/chunk_61_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_61_72.res' remapped 'res://assets/ryzom/meshes/chunk_61_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_62_72.res remapped: res://assets/ryzom/meshes/chunk_62_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_62_72.res' remapped 'res://assets/ryzom/meshes/chunk_62_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_63_72.res remapped: res://assets/ryzom/meshes/chunk_63_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_63_72.res' remapped 'res://assets/ryzom/meshes/chunk_63_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_64_72.res remapped: res://assets/ryzom/meshes/chunk_64_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_64_72.res' remapped 'res://assets/ryzom/meshes/chunk_64_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_65_72.res remapped: res://assets/ryzom/meshes/chunk_65_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_65_72.res' remapped 'res://assets/ryzom/meshes/chunk_65_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_66_72.res remapped: res://assets/ryzom/meshes/chunk_66_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_66_72.res' remapped 'res://assets/ryzom/meshes/chunk_66_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_67_72.res remapped: res://assets/ryzom/meshes/chunk_67_72.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_67_72.res' remapped 'res://assets/ryzom/meshes/chunk_67_72.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_60_71.res remapped: res://assets/ryzom/meshes/chunk_60_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_60_71.res' remapped 'res://assets/ryzom/meshes/chunk_60_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_61_71.res remapped: res://assets/ryzom/meshes/chunk_61_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_61_71.res' remapped 'res://assets/ryzom/meshes/chunk_61_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_62_71.res remapped: res://assets/ryzom/meshes/chunk_62_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_62_71.res' remapped 'res://assets/ryzom/meshes/chunk_62_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_63_71.res remapped: res://assets/ryzom/meshes/chunk_63_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_63_71.res' remapped 'res://assets/ryzom/meshes/chunk_63_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_64_71.res remapped: res://assets/ryzom/meshes/chunk_64_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_64_71.res' remapped 'res://assets/ryzom/meshes/chunk_64_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_65_71.res remapped: res://assets/ryzom/meshes/chunk_65_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_65_71.res' remapped 'res://assets/ryzom/meshes/chunk_65_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_66_71.res remapped: res://assets/ryzom/meshes/chunk_66_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_66_71.res' remapped 'res://assets/ryzom/meshes/chunk_66_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_67_71.res remapped: res://assets/ryzom/meshes/chunk_67_71.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_67_71.res' remapped 'res://assets/ryzom/meshes/chunk_67_71.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_60_70.res remapped: res://assets/ryzom/meshes/chunk_60_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_60_70.res' remapped 'res://assets/ryzom/meshes/chunk_60_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_61_70.res remapped: res://assets/ryzom/meshes/chunk_61_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_61_70.res' remapped 'res://assets/ryzom/meshes/chunk_61_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_62_70.res remapped: res://assets/ryzom/meshes/chunk_62_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_62_70.res' remapped 'res://assets/ryzom/meshes/chunk_62_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_63_70.res remapped: res://assets/ryzom/meshes/chunk_63_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_63_70.res' remapped 'res://assets/ryzom/meshes/chunk_63_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_64_70.res remapped: res://assets/ryzom/meshes/chunk_64_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_64_70.res' remapped 'res://assets/ryzom/meshes/chunk_64_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_65_70.res remapped: res://assets/ryzom/meshes/chunk_65_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_65_70.res' remapped 'res://assets/ryzom/meshes/chunk_65_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_66_70.res remapped: res://assets/ryzom/meshes/chunk_66_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_66_70.res' remapped 'res://assets/ryzom/meshes/chunk_66_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_67_70.res remapped: res://assets/ryzom/meshes/chunk_67_70.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_67_70.res' remapped 'res://assets/ryzom/meshes/chunk_67_70.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_60_69.res remapped: res://assets/ryzom/meshes/chunk_60_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_60_69.res' remapped 'res://assets/ryzom/meshes/chunk_60_69.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_61_69.res remapped: res://assets/ryzom/meshes/chunk_61_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_61_69.res' remapped 'res://assets/ryzom/meshes/chunk_61_69.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_62_69.res remapped: res://assets/ryzom/meshes/chunk_62_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_62_69.res' remapped 'res://assets/ryzom/meshes/chunk_62_69.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_63_69.res remapped: res://assets/ryzom/meshes/chunk_63_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_63_69.res' remapped 'res://assets/ryzom/meshes/chunk_63_69.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_64_69.res remapped: res://assets/ryzom/meshes/chunk_64_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_64_69.res' remapped 'res://assets/ryzom/meshes/chunk_64_69.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_65_69.res remapped: res://assets/ryzom/meshes/chunk_65_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_65_69.res' remapped 'res://assets/ryzom/meshes/chunk_65_69.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_66_69.res remapped: res://assets/ryzom/meshes/chunk_66_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_66_69.res' remapped 'res://assets/ryzom/meshes/chunk_66_69.res' at thread -1
+Loading resource: res://assets/ryzom/meshes/chunk_67_69.res remapped: res://assets/ryzom/meshes/chunk_67_69.res
+Completed load for: 'res://assets/ryzom/meshes/chunk_67_69.res' remapped 'res://assets/ryzom/meshes/chunk_67_69.res' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_caissebonus.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_caissebonus.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_caissebonus.png-144b4467ffe61332617582be716251ac.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_caissebonus.png-144b4467ffe61332617582be716251ac.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_caissebonus.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_caissebonus.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cordecaisse.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cordecaisse.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_cordecaisse.png-cc2ecead002b3a22f999ca971ef0e5a4.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_cordecaisse.png-cc2ecead002b3a22f999ca971ef0e5a4.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cordecaisse.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cordecaisse.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tonneau.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tonneau.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tonneau.png-fc5affc8f37dcb607c46f7ba6a36b288.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tonneau.png-fc5affc8f37dcb607c46f7ba6a36b288.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tonneau.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tonneau.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boisbarriere.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boisbarriere.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boisbarriere.png-b60572c61a8483ec498bf502db8353af.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boisbarriere.png-b60572c61a8483ec498bf502db8353af.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boisbarriere.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boisbarriere.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cuirbarriere.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cuirbarriere.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_cuirbarriere.png-e885407c71df343a6aca063e35807282.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_cuirbarriere.png-e885407c71df343a6aca063e35807282.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cuirbarriere.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_cuirbarriere.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_centretronc.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_centretronc.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_centretronc.png-248c8fef70849b573173c7fc79f13837.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_centretronc.png-248c8fef70849b573173c7fc79f13837.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_centretronc.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_centretronc.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower2.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower2.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tower2.png-2187c1bc40c95dfd61fdb1dc96ba588c.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tower2.png-2187c1bc40c95dfd61fdb1dc96ba588c.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_grille_metal.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_grille_metal.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_grille_metal.png-85b0219c9c5c04b907600f4ab2cd4549.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_grille_metal.png-85b0219c9c5c04b907600f4ab2cd4549.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_grille_metal.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_grille_metal.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur3.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur3.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_mur3.png-27116c4d47bb5b5892a1559608cacda7.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_mur3.png-27116c4d47bb5b5892a1559608cacda7.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur3.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur3.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tuyau.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tuyau.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tuyau.png-fe572819c92acd58ee96991284f6ebeb.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tuyau.png-fe572819c92acd58ee96991284f6ebeb.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tuyau.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tuyau.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_poutre.png-4ae4d169bcdaf4fa68c2c4a633a77c8d.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_poutre.png-4ae4d169bcdaf4fa68c2c4a633a77c8d.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre2.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre2.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_poutre2.png-85740bcd4a25be00972e69a26bfd2faa.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_poutre2.png-85740bcd4a25be00972e69a26bfd2faa.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_poutre2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boule_metal.png-1d0d3e798342bea932a8cd6dd8a1a82f.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boule_metal.png-1d0d3e798342bea932a8cd6dd8a1a82f.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sole-type2.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sole-type2.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_sole-type2.png-3253dc20273fac7330f0deb7179ea62f.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_sole-type2.png-3253dc20273fac7330f0deb7179ea62f.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sole-type2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sole-type2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_grille2_feux.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_grille2_feux.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_metal_grille2_feux.png-965027ff7da0eb9989df9cee68ef5e8d.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_metal_grille2_feux.png-965027ff7da0eb9989df9cee68ef5e8d.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_grille2_feux.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_grille2_feux.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur4.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur4.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_mur4.png-d9f4dc2b68afb2fb46dcca5d5d1ce76a.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_mur4.png-d9f4dc2b68afb2fb46dcca5d5d1ce76a.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur4.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur4.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal2.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal2.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boule_metal2.png-a8572e26364d8da1ea4db70f52634a1c.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boule_metal2.png-a8572e26364d8da1ea4db70f52634a1c.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_gaine_tuyau.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_gaine_tuyau.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_gaine_tuyau.png-8a345d9fbdc2863776fcde3dfb230b06.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_gaine_tuyau.png-8a345d9fbdc2863776fcde3dfb230b06.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_gaine_tuyau.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_gaine_tuyau.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tiboule_metal.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tiboule_metal.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tiboule_metal.png-b594341018fec15cd866956853d8ffbe.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tiboule_metal.png-b594341018fec15cd866956853d8ffbe.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tiboule_metal.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tiboule_metal.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_bombone.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_bombone.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_metal_bombone.png-f8ebbac9bf1fb95bd060c632a78b49f6.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_metal_bombone.png-f8ebbac9bf1fb95bd060c632a78b49f6.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_bombone.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_metal_bombone.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plaque_metal.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plaque_metal.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_plaque_metal.png-c20b662a8d56ff91d0cec1f381afc715.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_plaque_metal.png-c20b662a8d56ff91d0cec1f381afc715.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plaque_metal.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plaque_metal.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal4.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal4.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boule_metal4.png-19137fbe5d5208804182e1f86106b129.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_boule_metal4.png-19137fbe5d5208804182e1f86106b129.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal4.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_boule_metal4.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plafondtype2.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plafondtype2.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_plafondtype2.png-589b037d39dff48add8ce6bb91a91d7c.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_plafondtype2.png-589b037d39dff48add8ce6bb91a91d7c.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plafondtype2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_plafondtype2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_rondelle.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_rondelle.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_rondelle.png-4487477c4af1ef77eceeef40b154d7c0.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_rondelle.png-4487477c4af1ef77eceeef40b154d7c0.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_rondelle.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_rondelle.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_porte.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_porte.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_porte.png-46dd1284c9c1cf5cc0109fe71c8abf0e.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_porte.png-46dd1284c9c1cf5cc0109fe71c8abf0e.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_porte.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_porte.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_toit.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_toit.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_toit.png-b811c91cdbed92e12ac4d375da1b1743.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_toit.png-b811c91cdbed92e12ac4d375da1b1743.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_toit.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_toit.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase2.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase2.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase2.png-1d696692b3b92d5f2fcd1ca130dacf92.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase2.png-1d696692b3b92d5f2fcd1ca130dacf92.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase3.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase3.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase3.png-c3791dbf1b00aba00371d571b292e5b9.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase3.png-c3791dbf1b00aba00371d571b292e5b9.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase3.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase3.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase1.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase1.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase1.png-8ea49d279b1237978b8481ba70b71e76.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase1.png-8ea49d279b1237978b8481ba70b71e76.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase1.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase1.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lientoit.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lientoit.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_lientoit.png-c8d6734a796cfb7914c449e135629239.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_lientoit.png-c8d6734a796cfb7914c449e135629239.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lientoit.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lientoit.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sol-ecurie.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sol-ecurie.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_sol-ecurie.png-09bf1b973c70a62122483e3fc2aac65e.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_sol-ecurie.png-09bf1b973c70a62122483e3fc2aac65e.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sol-ecurie.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_sol-ecurie.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lampe_os_noir.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lampe_os_noir.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_lampe_os_noir.png-cc8091a759eb4488740a755b6abdc3a1.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_lampe_os_noir.png-cc8091a759eb4488740a755b6abdc3a1.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lampe_os_noir.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_lampe_os_noir.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_os_noir.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_os_noir.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_os_noir.png-adb891e713f35f31ebeb1a3561046192.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_os_noir.png-adb891e713f35f31ebeb1a3561046192.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_os_noir.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_os_noir.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase4.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase4.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase4.png-11fed1397ce8fc1cc35659422a23618c.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_maisonbase4.png-11fed1397ce8fc1cc35659422a23618c.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase4.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_maisonbase4.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tower.png-bf10ec0e92aabb1564c25a45f52932c5.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_tower.png-bf10ec0e92aabb1564c25a45f52932c5.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_tower.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_fenetre_neutre.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_fenetre_neutre.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_fenetre_neutre.png-2d2e5c4c3df8d1ea9b140e26168a4e93.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_fenetre_neutre.png-2d2e5c4c3df8d1ea9b140e26168a4e93.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_fenetre_neutre.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_fenetre_neutre.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur1.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur1.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_mur1.png-76cea7a711804a25a2ab2a92d0e2136a.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_mur1.png-76cea7a711804a25a2ab2a92d0e2136a.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur1.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_mur1.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_paille.png remapped: res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_paille.png
+Loading resource: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_paille.png-cbbaf9432da58190297ce07c511302e4.ctex remapped: res://.godot/imported/zonematerial-foret-start_village_newbieland_g_paille.png-cbbaf9432da58190297ce07c511302e4.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_paille.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-start_village_newbieland_g_paille.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s2_birch_fo_birch_branch_sp.png remapped: res://assets/ryzom/converted/fo_s2_birch_fo_birch_branch_sp.png
+Loading resource: res://.godot/imported/fo_s2_birch_fo_birch_branch_sp.png-db959e77abeddec5ff38e4171cfe1e96.ctex remapped: res://.godot/imported/fo_s2_birch_fo_birch_branch_sp.png-db959e77abeddec5ff38e4171cfe1e96.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_branch_sp.png' remapped 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_branch_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_moss_sp.png remapped: res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_moss_sp.png
+Loading resource: res://.godot/imported/fo_s2_birch_fo_birch_trunk_moss_sp.png-7d71d282f9754f32d687b5cfb7123261.ctex remapped: res://.godot/imported/fo_s2_birch_fo_birch_trunk_moss_sp.png-7d71d282f9754f32d687b5cfb7123261.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_moss_sp.png' remapped 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_moss_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s2_birch_fo_birch_feuillage_sp.png remapped: res://assets/ryzom/converted/fo_s2_birch_fo_birch_feuillage_sp.png
+Loading resource: res://.godot/imported/fo_s2_birch_fo_birch_feuillage_sp.png-79f95ae2880b111361ba5af98a36e57f.ctex remapped: res://.godot/imported/fo_s2_birch_fo_birch_feuillage_sp.png-79f95ae2880b111361ba5af98a36e57f.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_feuillage_sp.png' remapped 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_feuillage_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_sp.png remapped: res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_sp.png
+Loading resource: res://.godot/imported/fo_s2_birch_fo_birch_trunk_sp.png-ac7af4d4ac24c2b7dcd48bdada92e033.ctex remapped: res://.godot/imported/fo_s2_birch_fo_birch_trunk_sp.png-ac7af4d4ac24c2b7dcd48bdada92e033.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_sp.png' remapped 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_2_sp.png remapped: res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_2_sp.png
+Loading resource: res://.godot/imported/fo_s2_birch_fo_birch_trunk_2_sp.png-aab19d72503fecbce25ea27ade719f54.ctex remapped: res://.godot/imported/fo_s2_birch_fo_birch_trunk_2_sp.png-aab19d72503fecbce25ea27ade719f54.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_2_sp.png' remapped 'res://assets/ryzom/converted/fo_s2_birch_fo_birch_trunk_2_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s2_birch_fo_arbragrelot_feuillage_sp.png remapped: res://assets/ryzom/converted/fo_s2_birch_fo_arbragrelot_feuillage_sp.png
+Loading resource: res://.godot/imported/fo_s2_birch_fo_arbragrelot_feuillage_sp.png-0dc07dee00a53876da7a4f44233cdd0a.ctex remapped: res://.godot/imported/fo_s2_birch_fo_arbragrelot_feuillage_sp.png-0dc07dee00a53876da7a4f44233cdd0a.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s2_birch_fo_arbragrelot_feuillage_sp.png' remapped 'res://assets/ryzom/converted/fo_s2_birch_fo_arbragrelot_feuillage_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_mousse_sp.png remapped: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_mousse_sp.png
+Loading resource: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_tronc_mousse_sp.png-bccbcfa3219e59bf5817d2bb7dcd252a.ctex remapped: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_tronc_mousse_sp.png-bccbcfa3219e59bf5817d2bb7dcd252a.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_mousse_sp.png' remapped 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_mousse_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_sp.png remapped: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_sp.png
+Loading resource: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_tronc_sp.png-db34c5688375239bb07082e1c5803f33.ctex remapped: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_tronc_sp.png-db34c5688375239bb07082e1c5803f33.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_sp.png' remapped 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_tronc_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_branche_sp.png remapped: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_branche_sp.png
+Loading resource: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_branche_sp.png-ca8a02ff2de28b6f5bbaf8b15bdaea21.ctex remapped: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_branche_sp.png-ca8a02ff2de28b6f5bbaf8b15bdaea21.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_branche_sp.png' remapped 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_branche_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_feuillage_sp.png remapped: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_feuillage_sp.png
+Loading resource: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_feuillage_sp.png-37ce3659f37206095e34dadc6b0db937.ctex remapped: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_feuillage_sp.png-37ce3659f37206095e34dadc6b0db937.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_feuillage_sp.png' remapped 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_feuillage_sp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_chapeau_sp.png remapped: res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_chapeau_sp.png
+Loading resource: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_chapeau_sp.png-7bb5a0875af5f0da914808dc4e1c7bb9.ctex remapped: res://.godot/imported/fo_s1_giant_tree_fo_giant_tree_chapeau_sp.png-7bb5a0875af5f0da914808dc4e1c7bb9.ctex
+Completed load for: 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_chapeau_sp.png' remapped 'res://assets/ryzom/converted/fo_s1_giant_tree_fo_giant_tree_chapeau_sp.png' at thread -1
+Loading resource: res://assets/ryzom/meshes/temporary_roads.res remapped: res://assets/ryzom/meshes/temporary_roads.res
+Completed load for: 'res://assets/ryzom/meshes/temporary_roads.res' remapped 'res://assets/ryzom/meshes/temporary_roads.res' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues2.png-cb4151d3ab6280da25f5a639b732c2ba.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues2.png-cb4151d3ab6280da25f5a639b732c2ba.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues.png-38f32be79955f403ad4135d982c8d264.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues.png-38f32be79955f403ad4135d982c8d264.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons3_verues.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons_verrues.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons_verrues.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons_verrues.png-9e70ee5b52da2edf800900e78a037c39.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons_verrues.png-9e70ee5b52da2edf800900e78a037c39.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons_verrues.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons_verrues.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce1.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce1.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-ecorce1.png-ca210fa89ec14e256a3b0bd060ea2e5e.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-ecorce1.png-ca210fa89ec14e256a3b0bd060ea2e5e.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce1.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce1.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-ecorce2.png-8e25e1802c73810c855deab06cca62f9.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-ecorce2.png-8e25e1802c73810c855deab06cca62f9.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-ecorce2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-feuilles.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-feuilles.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-feuilles.png-72730c04d2b52a3b3c89f10f8e3cd250.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-feuilles.png-72730c04d2b52a3b3c89f10f8e3cd250.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-feuilles.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-feuilles.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons.png-990c2a108bbbd0405e6c548df0f99529.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-bourgeons.png-990c2a108bbbd0405e6c548df0f99529.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-bourgeons.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-parquet.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-parquet.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-parquet.png-18b6a97fad7d69d89b0a0d94e24ee09a.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-parquet.png-18b6a97fad7d69d89b0a0d94e24ee09a.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-parquet.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-parquet.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-porte2.png-0b487694271a09d864c5fe3702b90364.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-porte2.png-0b487694271a09d864c5fe3702b90364.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-1.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-1.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-int-1.png-4df59bcfedac26961ef17dc746eb9240.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-int-1.png-4df59bcfedac26961ef17dc746eb9240.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-1.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-1.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-int-2.png-4fb2a479269c5375762cc5ab0389c961.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-int-2.png-4fb2a479269c5375762cc5ab0389c961.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-int-2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_gazon.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_gazon.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_gazon.png-c4b097e0039ffd81177dedf33ca481ba.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_gazon.png-c4b097e0039ffd81177dedf33ca481ba.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_gazon.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_gazon.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_terre.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_terre.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_terre.png-b28b03b024d01ac98a35eae4d798763c.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_terre.png-b28b03b024d01ac98a35eae4d798763c.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_terre.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_terre.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_lampe.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_lampe.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_lampe.png-5c0f1acd19fcf4e15364e936671722a2.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_lampe.png-5c0f1acd19fcf4e15364e936671722a2.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_lampe.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_lampe.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ambre.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ambre.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_ambre.png-2ddc90653435e4142ebbb481e76dfd1d.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_ambre.png-2ddc90653435e4142ebbb481e76dfd1d.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ambre.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ambre.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-trognon1.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-trognon1.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-trognon1.png-3934c5682be88a74e17e3d4afb7b64de.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-trognon1.png-3934c5682be88a74e17e3d4afb7b64de.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-trognon1.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-trognon1.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_debris-trans.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_debris-trans.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_debris-trans.png-cc227fafaac9cc443c75410a0dd6d4ef.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_debris-trans.png-cc227fafaac9cc443c75410a0dd6d4ef.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_debris-trans.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_debris-trans.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_mairie2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_mairie2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_mairie2.png-c4adc41fbe7644e6f9fe187015cea13e.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_mairie2.png-c4adc41fbe7644e6f9fe187015cea13e.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_mairie2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_mairie2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_loupiotte.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_loupiotte.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_loupiotte.png-c5abbbaa481bcb5ed73c02093a8fe6d6.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_loupiotte.png-c5abbbaa481bcb5ed73c02093a8fe6d6.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_loupiotte.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_loupiotte.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_planche.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_planche.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_planche.png-6f9502361ea0f9945ea9c6376a7676fc.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_planche.png-6f9502361ea0f9945ea9c6376a7676fc.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_planche.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_planche.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_hublot.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_hublot.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_agora_hublot.png-92d7486b13d0fbadde8f30d8f6604eec.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_agora_hublot.png-92d7486b13d0fbadde8f30d8f6604eec.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_hublot.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_hublot.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-mairie-vitrail.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-mairie-vitrail.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-mairie-vitrail.png-529d292158d1ac3b87e5f9a438bc3b9a.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-mairie-vitrail.png-529d292158d1ac3b87e5f9a438bc3b9a.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-mairie-vitrail.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-mairie-vitrail.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_agora2.png-cbfe4dd58419ecdcd9931930a878064c.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_agora2.png-cbfe4dd58419ecdcd9931930a878064c.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_toit.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_toit.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_agora_toit.png-c4204d22380bfecbc7f77d580c32fbcd.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_agora_toit.png-c4204d22380bfecbc7f77d580c32fbcd.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_toit.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_agora_toit.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignontop_2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignontop_2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_chamignontop_2.png-15d9a7cb5159a9c05d077fdb6ca60c09.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_chamignontop_2.png-15d9a7cb5159a9c05d077fdb6ca60c09.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignontop_2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignontop_2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignondown.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignondown.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_chamignondown.png-5402f89a20206a9b2506433fe30e0fa0.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_chamignondown.png-5402f89a20206a9b2506433fe30e0fa0.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignondown.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_chamignondown.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_portail_matis2.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_portail_matis2.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_portail_matis2.png-483f841cd97d191b936cdb18dc38a069.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_portail_matis2.png-483f841cd97d191b936cdb18dc38a069.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_portail_matis2.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_portail_matis2.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_autel_wall.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_autel_wall.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_autel_wall.png-47ce8fcf8a8d8c03e13c188fa0e11f86.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_autel_wall.png-47ce8fcf8a8d8c03e13c188fa0e11f86.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_autel_wall.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_autel_wall.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_solkoupp.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_solkoupp.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_solkoupp.png-37ead0b8182c523a4b395cf474e1648e.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_solkoupp.png-37ead0b8182c523a4b395cf474e1648e.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_solkoupp.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_solkoupp.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_interbas.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_interbas.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_interbas.png-4bd12480c00642496b671e64ef619daa.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_interbas.png-4bd12480c00642496b671e64ef619daa.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_interbas.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_interbas.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ascenceur.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ascenceur.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_ascenceur.png-c981ba27de4760944064921c875b0370.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma_ascenceur.png-c981ba27de4760944064921c875b0370.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ascenceur.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma_ascenceur.png' at thread -1
+Loading resource: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte1.png remapped: res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte1.png
+Loading resource: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-porte1.png-188b2846ac47f9cba4215d9cf5adb820.ctex remapped: res://.godot/imported/zonematerial-foret-ruines_newbieland_ma-b-porte1.png-188b2846ac47f9cba4215d9cf5adb820.ctex
+Completed load for: 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte1.png' remapped 'res://assets/ryzom/converted/zonematerial-foret-ruines_newbieland_ma-b-porte1.png' at thread -1
+Loading resource: res://assets/ryzom/converted/chlorogoo_watchtower_chlorogoo_watchtower.png remapped: res://assets/ryzom/converted/chlorogoo_watchtower_chlorogoo_watchtower.png
+Loading resource: res://.godot/imported/chlorogoo_watchtower_chlorogoo_watchtower.png-b49e2448b3bc4d92a494ce7a3b31a271.ctex remapped: res://.godot/imported/chlorogoo_watchtower_chlorogoo_watchtower.png-b49e2448b3bc4d92a494ce7a3b31a271.ctex
+Completed load for: 'res://assets/ryzom/converted/chlorogoo_watchtower_chlorogoo_watchtower.png' remapped 'res://assets/ryzom/converted/chlorogoo_watchtower_chlorogoo_watchtower.png' at thread -1
+Loading resource: res://assets/ryzom/converted/karavan_sensor_karavan sensor.png remapped: res://assets/ryzom/converted/karavan_sensor_karavan sensor.png
+Loading resource: res://.godot/imported/karavan_sensor_karavan sensor.png-a01b1ad020ca8ea4b21cb7af0f97bb7e.ctex remapped: res://.godot/imported/karavan_sensor_karavan sensor.png-a01b1ad020ca8ea4b21cb7af0f97bb7e.ctex
+Completed load for: 'res://assets/ryzom/converted/karavan_sensor_karavan sensor.png' remapped 'res://assets/ryzom/converted/karavan_sensor_karavan sensor.png' at thread -1
+Loading resource: res://scenes/player/player.tscn remapped: res://scenes/player/player.tscn
+Loading resource: res://scripts/player.gd remapped: res://scripts/player.gd
+Completed load for: 'res://scripts/player.gd' remapped 'res://scripts/player.gd' at thread -1
+Completed load for: 'res://scenes/player/player.tscn' remapped 'res://scenes/player/player.tscn' at thread -1
+Loading resource: res://scripts/arpg_camera.gd remapped: res://scripts/arpg_camera.gd
+Completed load for: 'res://scripts/arpg_camera.gd' remapped 'res://scripts/arpg_camera.gd' at thread -1
+Loading resource: res://scripts/skill_hooks.gd remapped: res://scripts/skill_hooks.gd
+Completed load for: 'res://scripts/skill_hooks.gd' remapped 'res://scripts/skill_hooks.gd' at thread -1
+Loading resource: res://scripts/minimap.gd remapped: res://scripts/minimap.gd
+Completed load for: 'res://scripts/minimap.gd' remapped 'res://scripts/minimap.gd' at thread -1
+Completed load for: 'res://scenes/world/region_a.tscn' remapped 'res://scenes/world/region_a.tscn' at thread -1
+PASS 出生點落地；沒有穿過地面
+PASS 人偶腳底位於地面，1 單位 = 1 公尺
+PASS Quaternius 原始 65 骨骼人偶
+PASS AnimationTree 啟用
+PASS 走路速度約 2.5 m/s
+PASS WASD 透過 CharacterBody3D 實際移動
+PASS 走路動畫骨骼確實變動
+PASS 跑步速度約 5 m/s
+PASS 衝刺速度約 8 m/s
+PASS 減速後停住
+PASS 停下後平滑回到 Idle
+PASS 緩坡區有地形碰撞
+PASS 緩坡移動持續貼地
+PASS ARPG 鏡頭俯角在合理範圍
+PASS UAL2 Melee_Hook 單次動作可以觸發
+PASS 56 地形區塊完整載入
+PASS 原始 Silan 村莊 GLB 存在
+PASS 695 棵實際 Ryzom 樹木原始座標可追溯
+RESULT PASS failures=[]
+XR: Clearing primary interface
+XR: Removed interface "Native mobile"
+XR: Removed interface "OpenXR"

@@ -1,0 +1,21 @@
+Godot Engine v4.7.1.stable.official.a13da4feb - https://godotengine.org
+
+PASS 出生點落地；沒有穿過地面
+PASS 人偶腳底位於地面，1 單位 = 1 公尺
+PASS Quaternius 原始 65 骨骼人偶
+PASS AnimationTree 啟用
+PASS 走路速度約 2.5 m/s
+PASS WASD 透過 CharacterBody3D 實際移動
+PASS 走路動畫骨骼確實變動
+PASS 跑步速度約 5 m/s
+PASS 衝刺速度約 8 m/s
+PASS 減速後停住
+PASS 停下後平滑回到 Idle
+PASS 緩坡區有地形碰撞
+PASS 緩坡移動持續貼地
+PASS ARPG 鏡頭俯角在合理範圍
+PASS UAL2 Melee_Hook 單次動作可以觸發
+PASS 56 地形區塊完整載入
+PASS 原始 Silan 村莊 GLB 存在
+PASS 695 棵實際 Ryzom 樹木原始座標可追溯
+RESULT PASS failures=[]

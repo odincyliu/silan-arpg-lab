@@ -1,0 +1,69 @@
+name: Build and deploy Web
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+env:
+  GODOT_VERSION: 4.7.1
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cache Godot and Web templates
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/bin/godot
+            ~/.local/share/godot/export_templates/4.7.1.stable
+          key: godot-linux-web-4.7.1-v1
+      - name: Install official Godot and Web templates
+        if: steps.cache.outputs.cache-hit != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          release="https://github.com/godotengine/godot/releases/download/${GODOT_VERSION}-stable"
+          curl --fail --location --retry 3 "$release/Godot_v${GODOT_VERSION}-stable_linux.x86_64.zip" -o "$RUNNER_TEMP/editor.zip"
+          unzip -q "$RUNNER_TEMP/editor.zip" -d "$RUNNER_TEMP/editor"
+          mkdir -p "$HOME/.local/bin" "$HOME/.local/share/godot/export_templates/${GODOT_VERSION}.stable"
+          install -m 755 "$RUNNER_TEMP/editor/Godot_v${GODOT_VERSION}-stable_linux.x86_64" "$HOME/.local/bin/godot"
+          curl --fail --location --retry 3 "$release/Godot_v${GODOT_VERSION}-stable_export_templates.tpz" -o "$RUNNER_TEMP/templates.tpz"
+          unzip -j -q "$RUNNER_TEMP/templates.tpz" 'templates/web_nothreads_release.zip' 'templates/web_nothreads_debug.zip' -d "$HOME/.local/share/godot/export_templates/${GODOT_VERSION}.stable"
+      - name: Import and validate prototype
+        run: |
+          "$HOME/.local/bin/godot" --headless --editor --import --quit --path .
+          "$HOME/.local/bin/godot" --headless --path . --script res://tools/check_prototype.gd
+      - name: Export Web release
+        run: |
+          mkdir -p build/web
+          "$HOME/.local/bin/godot" --headless --path . --export-release Web build/web/index.html
+          python3 tools/prepare_web.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/web
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

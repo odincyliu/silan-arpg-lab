@@ -1,0 +1,222 @@
+[
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\generique\\agents\\waibao\\chlorogoo_tent_2.3ds",
+    "name": "chlorogoo_tent_2",
+    "bounds_xyz_source": [
+      [
+        -11.042112350463867,
+        10.11967658996582
+      ],
+      [
+        -5.7592692375183105,
+        6.147116184234619
+      ],
+      [
+        -0.28848013281822205,
+        11.30433464050293
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 2220
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\generique\\agents\\waibao\\chlorogoo_watchtower.3ds",
+    "name": "chlorogoo_watchtower",
+    "bounds_xyz_source": [
+      [
+        -19.58477020263672,
+        19.586769104003906
+      ],
+      [
+        -15.652060508728027,
+        15.654548645019531
+      ],
+      [
+        -1.1494702100753784,
+        69.29678344726562
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 1483
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\generique\\agents\\waibao\\goo flora 1.3ds",
+    "name": "goo_flora_1",
+    "bounds_xyz_source": [
+      [
+        -2.540118455886841,
+        2.4166343212127686
+      ],
+      [
+        -2.8051071166992188,
+        2.3315622806549072
+      ],
+      [
+        -0.024022655561566353,
+        4.277431964874268
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 974
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\generique\\agents\\waibao\\goo flora 2.3ds",
+    "name": "goo_flora_2",
+    "bounds_xyz_source": [
+      [
+        -2.278343677520752,
+        2.2756364345550537
+      ],
+      [
+        -2.6202597618103027,
+        2.6336581707000732
+      ],
+      [
+        -0.13899198174476624,
+        4.1925201416015625
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 912
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\generique\\agents\\waibao\\goo flora 3.3ds",
+    "name": "goo_flora_3",
+    "bounds_xyz_source": [
+      [
+        -1.9463294744491577,
+        1.96580970287323
+      ],
+      [
+        -1.8371787071228027,
+        1.694960594177246
+      ],
+      [
+        0.0009999197209253907,
+        4.263077259063721
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 976
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\generique\\agents\\waibao\\goo flora 4.3ds",
+    "name": "goo_flora_4",
+    "bounds_xyz_source": [
+      [
+        -2.6944992542266846,
+        4.364260196685791
+      ],
+      [
+        -3.411389112472534,
+        3.2421696186065674
+      ],
+      [
+        -0.409859836101532,
+        4.674198627471924
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 962
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\generique\\agents\\waibao\\karavan sensor.3ds",
+    "name": "karavan_sensor",
+    "bounds_xyz_source": [
+      [
+        -3.7226364612579346,
+        3.7246358394622803
+      ],
+      [
+        -3.793606996536255,
+        3.7956082820892334
+      ],
+      [
+        -0.0034659947268664837,
+        12.828553199768066
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 951
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\landscape\\ligo\\jungle\\max\\zonematerial-foret-start_village_newbieland.max",
+    "name": "zonematerial-foret-start_village_newbieland",
+    "bounds_xyz_source": [
+      [
+        25.896678924560547,
+        124.33714294433594
+      ],
+      [
+        32.26012420654297,
+        121.99351501464844
+      ],
+      [
+        -2.2121775150299072,
+        16.638254165649414
+      ]
+    ],
+    "mesh_count": 2,
+    "triangles": 15730
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\landscape\\ligo\\jungle\\max\\zonematerial-foret-ruines_newbieland.max",
+    "name": "zonematerial-foret-ruines_newbieland",
+    "bounds_xyz_source": [
+      [
+        53.773834228515625,
+        307.1768798828125
+      ],
+      [
+        14.963729858398438,
+        306.1453552246094
+      ],
+      [
+        -1.5959806442260742,
+        22.75847816467285
+      ]
+    ],
+    "mesh_count": 5,
+    "triangles": 57125
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\jungle\\decors\\vegetations\\bad_distance_sans_croisillons\\fo_s1_giant_tree.max",
+    "name": "fo_s1_giant_tree",
+    "bounds_xyz_source": [
+      [
+        -17.098705291748047,
+        18.822431564331055
+      ],
+      [
+        -15.62182903289795,
+        15.169722557067871
+      ],
+      [
+        -3.754424571990967,
+        62.691349029541016
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 480
+  },
+  {
+    "source": "assets\\ryzom\\source\\graphics\\stuff\\jungle\\decors\\vegetations\\bad_distance_sans_croisillons\\fo_s2_birch.max",
+    "name": "fo_s2_birch",
+    "bounds_xyz_source": [
+      [
+        -2.957528829574585,
+        2.957529067993164
+      ],
+      [
+        -2.7605698108673096,
+        2.7605693340301514
+      ],
+      [
+        -0.34480470418930054,
+        14.728899002075195
+      ]
+    ],
+    "mesh_count": 1,
+    "triangles": 560
+  }
+]

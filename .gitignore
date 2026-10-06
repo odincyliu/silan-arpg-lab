@@ -1,0 +1,9 @@
+.godot/
+.cache/
+build/
+__pycache__/
+*.pyc
+export_credentials.cfg
+*.tmp
+assets/ryzom/source/ryzomcore_graphics-rev5.7z
+docs/*debug*.log

@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Silan ARPG Lab</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #101a20; color: #e6e8dd; font: 15px/1.5 system-ui, sans-serif; }
+    header { padding: 12px 20px; display: flex; align-items: center; flex-wrap: wrap; gap: 12px; }
+    h1 { margin: 0; font-size: 20px; }
+    a { color: #c5dba2; }
+    button { padding: 9px 18px; border: 1px solid #9db782; border-radius: 5px; background: #c5dba2; color: #15201c; cursor: pointer; font: inherit; }
+    #stage { position: relative; width: 100%; height: min(78vh, 900px); min-height: 420px; }
+    #canvas { display: block; width: 100%; height: 100%; outline: none; }
+    #canvas:fullscreen { width: 100vw; height: 100vh; }
+    #status { position: absolute; inset: 0; display: grid; place-content: center; justify-items: center; gap: 16px; padding: 24px; background: #101a20; text-align: center; }
+    #notice { max-width: 650px; white-space: pre-wrap; }
+    progress { width: min(75vw, 360px); accent-color: #c5dba2; }
+    footer { padding: 12px 20px 20px; color: #b8c3bd; }
+    footer p { margin: 5px 0; }
+  </style>
+  $GODOT_HEAD_INCLUDE
+</head>
+<body>
+  <header>
+    <h1>Silan ARPG Lab</h1>
+    <span>非官方探索原型</span>
+    <a href="https://github.com/odincyliu/silan-arpg-lab" target="_blank" rel="noopener">原始碼</a>
+    <a href="licenses.html" target="_blank" rel="noopener">素材來源與授權</a>
+    <button id="fullscreen" type="button">全螢幕</button>
+  </header>
+  <main id="stage">
+    <canvas id="canvas" tabindex="0" aria-label="Silan 3D 探索遊戲">請使用支援 WebGL 2 的瀏覽器。</canvas>
+    <div id="status">
+      <strong>Silan 探索實驗室</strong>
+      <div id="notice">建議使用桌面電腦。首次載入需下載遊戲資源。</div>
+      <progress id="progress" hidden></progress>
+      <button id="start" type="button">開始探索</button>
+    </div>
+  </main>
+  <footer>
+    <p>WASD 移動 · C 走路／跑步 · Shift 衝刺 · 滾輪縮放 · 按住右鍵拖曳鏡頭 · 左鍵／1 揮擊 · 2 範圍標記 · R 回村莊</p>
+    <p>Ryzom 原始村莊、遺跡與樹木；地形高度及道路為暫時重建。尚未實作完整戰鬥、任務或多人連線。</p>
+  </footer>
+  <script src="$GODOT_URL"></script>
+  <script>
+    const engine = new Engine($GODOT_CONFIG);
+    const canvas = document.getElementById('canvas');
+    const status = document.getElementById('status');
+    const notice = document.getElementById('notice');
+    const progress = document.getElementById('progress');
+    const start = document.getElementById('start');
+    // 將渲染尺寸跟隨遊戲區，保留頁首與操作說明的空間。
+    const resizeCanvas = () => {
+      const bounds = canvas.getBoundingClientRect();
+      canvas.width = Math.max(1, Math.round(bounds.width));
+      canvas.height = Math.max(1, Math.round(bounds.height));
+    };
+    new ResizeObserver(resizeCanvas).observe(canvas);
+    resizeCanvas();
+    canvas.addEventListener('contextmenu', event => event.preventDefault());
+    document.getElementById('fullscreen').addEventListener('click', async () => {
+      try {
+        await canvas.requestFullscreen();
+        canvas.focus();
+      } catch (error) {
+        notice.textContent = '此瀏覽器無法切換全螢幕。';
+        console.warn(error);
+      }
+    });
+    start.addEventListener('click', async () => {
+      start.disabled = true;
+      const missing = Engine.getMissingFeatures({ threads: $GODOT_THREADS_ENABLED });
+      if (missing.length) {
+        notice.textContent = '瀏覽器缺少必要功能：' + missing.join(', ');
+        return;
+      }
+      progress.hidden = false;
+      notice.textContent = '正在下載並載入場景…';
+      try {
+        await engine.startGame({
+          canvas,
+          onProgress(current, total) {
+            if (total > 0) {
+              progress.max = total;
+              progress.value = current;
+              notice.textContent = '下載遊戲資源 ' + Math.round(current / total * 100) + '%';
+            } else {
+              progress.removeAttribute('value');
+            }
+          },
+          onExit(code) {
+            status.hidden = false;
+            status.style.display = 'grid';
+            notice.textContent = '遊戲已結束（' + code + '）。重新整理頁面可再次啟動。';
+            progress.hidden = true;
+          }
+        });
+        status.style.display = 'none';
+        canvas.focus();
+      } catch (error) {
+        notice.textContent = '載入失敗：' + (error.message || String(error)) + '\n請重新整理，或改用支援 WebGL 2 的桌面瀏覽器。';
+        progress.hidden = true;
+        console.error(error);
+      }
+    });
+  </script>
+</body>
+</html>

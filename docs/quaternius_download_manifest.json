@@ -1,0 +1,277 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Animation%20Library%202%5BStandard%5D/Universal%20Animation%20Library%202%5BStandard%5D/License.txt",
+    "file": "assets\\animations\\UAL2_LICENSE.txt",
+    "sha256": "d77329b05c4c206e76c83285ecdd1e5f2b3df2350ec80657ebdb5a706a0fc0de"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Animation%20Library%202%5BStandard%5D/Universal%20Animation%20Library%202%5BStandard%5D/Unreal-Godot/UAL2_Standard.glb",
+    "file": "assets\\animations\\UAL2_Standard.glb",
+    "sha256": "8cee20ab1bc55130092447e810e26df22dd2803eccc54f52137a7d54d7ab88a8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Animation%20Library%5BStandard%5D/Universal%20Animation%20Library%5BStandard%5D/License.txt",
+    "file": "assets\\animations\\UAL1_LICENSE.txt",
+    "sha256": "d77329b05c4c206e76c83285ecdd1e5f2b3df2350ec80657ebdb5a706a0fc0de"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Animation%20Library%5BStandard%5D/Universal%20Animation%20Library%5BStandard%5D/Unreal-Godot/UAL1_Standard.glb",
+    "file": "assets\\animations\\UAL1_Standard.glb",
+    "sha256": "69591853d817488edaa8fd9bf8fc1d821eaeaf789f8627b3cd23b41c4ed67997"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/Superhero_Male_FullBody.bin",
+    "file": "assets\\character\\Superhero_Male_FullBody.bin",
+    "sha256": "459003f9745853ae562a85506a2b94dd56515c1f37728f9fa3d2ce1a3e4cd92f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/Superhero_Male_FullBody.gltf",
+    "file": "assets\\character\\Superhero_Male_FullBody.gltf",
+    "sha256": "e7fcea214ecf8855afbf910b50de6f9c7d1decfb71ca28bad8a4481452dafeb4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Eye_Brown.png",
+    "file": "assets\\character\\textures\\T_Eye_Brown.png",
+    "sha256": "d08e3356a83211bc6ca21fe3a8e39f4b5c1a3b8f85457fc2c0fb57be09935025"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Eye_Normal.png",
+    "file": "assets\\character\\textures\\T_Eye_Normal.png",
+    "sha256": "9ed61f7726a54fe346a78b9e5a18905d8e2b88f86235d97f53cd207a26f3f8c7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Hair_1_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_1_BaseColor.png",
+    "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Hair_1_BaseColor_png.png",
+    "file": "assets\\character\\textures\\T_Hair_1_BaseColor_png.png",
+    "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Hair_1_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_1_Normal.png",
+    "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Hair_2_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_2_BaseColor.png",
+    "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Hair_2_BaseColor_png.png",
+    "file": "assets\\character\\textures\\T_Hair_2_BaseColor_png.png",
+    "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Hair_2_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_2_Normal.png",
+    "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Superhero_Female_Dark_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Dark_BaseColor.png",
+    "sha256": "d366843ee7d9e9f37ec87a0e1c98c7f2e45573c08eeb80a51a6d9344e68cf288"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Superhero_Female_Normal.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Normal.png",
+    "sha256": "cf922460b43ccd31e983e34db05514c9d451dd2f9cdd01a843978e797719f859"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Superhero_Female_Roughness.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Roughness.png",
+    "sha256": "d2beabf2bd0313e32c68dcdbb80dca371a6e994fabf96efa97128bf9f14fa57b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Superhero_Male_Dark.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Dark.png",
+    "sha256": "df680cbc1967a61e85998bfafb8f7bc0a36dd604bb3266486c4b06b1a184bb45"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Superhero_Male_Normal.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Normal.png",
+    "sha256": "9b25cf9200216eb754b79cf4c63b5380c419780788322f3c57cdd2b3e02679a6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Godot%20-%20UE/T_Superhero_Male_Roughness.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Roughness.png",
+    "sha256": "c70dabf48574cda55644d556beae1ee7cf1bdcf68a50d259d20f2f2358f27991"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/Normals%20Unity%20-%20Godot/T_Eye_Normal.png",
+    "file": "assets\\character\\textures\\T_Eye_Normal.png",
+    "sha256": "9ed61f7726a54fe346a78b9e5a18905d8e2b88f86235d97f53cd207a26f3f8c7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/Normals%20Unity%20-%20Godot/T_Hair_1_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_1_Normal.png",
+    "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/Normals%20Unity%20-%20Godot/T_Hair_2_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_2_Normal.png",
+    "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/Normals%20Unity%20-%20Godot/T_Superhero_Female_Normal.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Normal.png",
+    "sha256": "cf922460b43ccd31e983e34db05514c9d451dd2f9cdd01a843978e797719f859"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/Normals%20Unity%20-%20Godot/T_Superhero_Male_Normal.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Normal.png",
+    "sha256": "9b25cf9200216eb754b79cf4c63b5380c419780788322f3c57cdd2b3e02679a6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Eye_Brown.png",
+    "file": "assets\\character\\textures\\T_Eye_Brown.png",
+    "sha256": "d08e3356a83211bc6ca21fe3a8e39f4b5c1a3b8f85457fc2c0fb57be09935025"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Eye_Normal.png",
+    "file": "assets\\character\\textures\\T_Eye_Normal.png",
+    "sha256": "a74aa37050f26fe336e7dbe5d1e9f01942879dd541c67be2f836633529bc68b7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Hair_1_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_1_BaseColor.png",
+    "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Hair_1_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_1_Normal.png",
+    "sha256": "fd4530bb696a083ac7f9c2f685b4bb15d91150040e76c905db591c7644b4aa87"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Hair_2_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_2_BaseColor.png",
+    "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Hair_2_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_2_Normal.png",
+    "sha256": "214dff8981ab87319b2acfaf1ad9143db020989afa14896a0d70048a667e17e3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Female_Dark_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Dark_BaseColor.png",
+    "sha256": "d366843ee7d9e9f37ec87a0e1c98c7f2e45573c08eeb80a51a6d9344e68cf288"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Female_Light_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Light_BaseColor.png",
+    "sha256": "743f811857db0b950f3ad09a0733dfa4888801ead332313ca25becea14c54f8d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Female_Normal.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Normal.png",
+    "sha256": "3b90600cbd90d1e8b39bcb0befee4333388003a82af9d0ff00825d144cf99373"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Female_Roughness.png",
+    "file": "assets\\character\\textures\\T_Superhero_Female_Roughness.png",
+    "sha256": "4e00eb2d8196cebacd027e3360b9da6431d8915e27e1b5262c14f20eaaa6dced"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Male_Dark.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Dark.png",
+    "sha256": "df680cbc1967a61e85998bfafb8f7bc0a36dd604bb3266486c4b06b1a184bb45"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Male_Ligh.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Ligh.png",
+    "sha256": "419f96dbb8811511e2d515bcdabc085ff2f219ec7b8b4e91050a84cba6888fe9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Male_Normal.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Normal.png",
+    "sha256": "3645858289beb51643155a924e5148735dd5fe226230532936375c06ba829dec"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Base%20Characters/Textures/T_Superhero_Male_Roughness.png",
+    "file": "assets\\character\\textures\\T_Superhero_Male_Roughness.png",
+    "sha256": "5079fd95603bdd34700abd42ca6bcf43b615929f29134822aeb63a3a8bb3400c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Origin%20at%200/glTF%20%28Godot%29/T_Hair_1_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_1_BaseColor.png",
+    "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Origin%20at%200/glTF%20%28Godot%29/T_Hair_1_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_1_Normal.png",
+    "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Origin%20at%200/glTF%20%28Godot%29/T_Hair_2_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_2_BaseColor.png",
+    "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Origin%20at%200/glTF%20%28Godot%29/T_Hair_2_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_2_Normal.png",
+    "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Rigged%20to%20Head%20Bone/glTF%20%28Godot%20-Unreal%29/T_Hair_1_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_1_BaseColor.png",
+    "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Rigged%20to%20Head%20Bone/glTF%20%28Godot%20-Unreal%29/T_Hair_1_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_1_Normal.png",
+    "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Rigged%20to%20Head%20Bone/glTF%20%28Godot%20-Unreal%29/T_Hair_2_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_2_BaseColor.png",
+    "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Rigged%20to%20Head%20Bone/glTF%20%28Godot%20-Unreal%29/T_Hair_2_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_2_Normal.png",
+    "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Textures/Normals%20Unity%20-%20Godot/T_Hair_1_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_1_Normal.png",
+    "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Textures/Normals%20Unity%20-%20Godot/T_Hair_2_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_2_Normal.png",
+    "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Textures/T_Hair_1_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_1_BaseColor.png",
+    "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Textures/T_Hair_1_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_1_Normal.png",
+    "sha256": "fd4530bb696a083ac7f9c2f685b4bb15d91150040e76c905db591c7644b4aa87"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Textures/T_Hair_2_BaseColor.png",
+    "file": "assets\\character\\textures\\T_Hair_2_BaseColor.png",
+    "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Hairstyles/Textures/T_Hair_2_Normal.png",
+    "file": "assets\\character\\textures\\T_Hair_2_Normal.png",
+    "sha256": "214dff8981ab87319b2acfaf1ad9143db020989afa14896a0d70048a667e17e3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/License_Standard.txt",
+    "file": "assets\\character\\License_Standard.txt",
+    "sha256": "e08f717c3cfd999f4b44f2be4522b11a3ac3c0e5b6364b3a8788d25d4c90ff94"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NafisRayan/Animate-Rigged-Humanoid-No-Blender/main/Universal%20Base%20Characters%5BStandard%5D/Universal%20Base%20Characters%5BStandard%5D/Preview.png",
+    "file": "assets\\character\\textures\\Preview.png",
+    "sha256": "84933b9356eb69987e0e07f7fb187c04fbc6ba0639f742868d662e31abf5fcda"
+  }
+]

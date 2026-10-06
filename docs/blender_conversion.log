@@ -1,0 +1,633 @@
+D:\funny\Godot-Ryzom\godot_ryzom_poc\tools\ryzom_converter\convert_assets.py:115: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+INFO Draco is available, use library at D:\blender\blender-5.2.1-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\blender\blender-5.2.1-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+13:53:05 | INFO: Starting glTF 2.0 export
+13:53:05 | INFO: Extracting primitive: Object02
+13:53:05 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:05 | INFO: Primitives created: 1
+13:53:05 | INFO: Finished glTF 2.0 export in 0.04421186447143555 s
+
+EXPORTED chlorogoo_tent_2 1 [[-11.042112350463867, 10.11967658996582], [-5.7592692375183105, 6.147116184234619], [-0.28848013281822205, 11.30433464050293]]
+D:\funny\Godot-Ryzom\godot_ryzom_poc\tools\ryzom_converter\convert_assets.py:115: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+13:53:05 | INFO: Starting glTF 2.0 export
+13:53:05 | WARNING: Mesh chlorogoo_ is not valid, and may be exported wrongly
+13:53:05 | INFO: Extracting primitive: chlorogoo_
+13:53:05 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:05 | INFO: Primitives created: 1
+13:53:05 | INFO: Finished glTF 2.0 export in 0.04276633262634277 s
+
+EXPORTED chlorogoo_watchtower 1 [[-19.58477020263672, 19.586769104003906], [-15.652060508728027, 15.654548645019531], [-1.1494702100753784, 69.29678344726562]]
+13:53:05 | INFO: Starting glTF 2.0 export
+13:53:05 | INFO: Extracting primitive: goo flora 
+13:53:05 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:05 | INFO: Primitives created: 1
+13:53:05 | INFO: Finished glTF 2.0 export in 0.026196002960205078 s
+
+EXPORTED goo_flora_1 1 [[-2.540118455886841, 2.4166343212127686], [-2.8051071166992188, 2.3315622806549072], [-0.024022655561566353, 4.277431964874268]]
+13:53:05 | INFO: Starting glTF 2.0 export
+13:53:05 | INFO: Extracting primitive: goo flora .001
+13:53:05 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:05 | INFO: Primitives created: 1
+13:53:05 | INFO: Finished glTF 2.0 export in 0.02625584602355957 s
+
+EXPORTED goo_flora_2 1 [[-2.278343677520752, 2.2756364345550537], [-2.6202597618103027, 2.6336581707000732], [-0.13899198174476624, 4.1925201416015625]]
+13:53:05 | INFO: Starting glTF 2.0 export
+13:53:05 | INFO: Extracting primitive: goo flora .002
+13:53:05 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:05 | INFO: Primitives created: 1
+13:53:05 | INFO: Finished glTF 2.0 export in 0.03200984001159668 s
+
+EXPORTED goo_flora_3 1 [[-1.9463294744491577, 1.96580970287323], [-1.8371787071228027, 1.694960594177246], [0.0009999197209253907, 4.263077259063721]]
+13:53:05 | INFO: Starting glTF 2.0 export
+13:53:05 | INFO: Extracting primitive: goo flora .003
+13:53:05 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:05 | INFO: Primitives created: 1
+13:53:05 | INFO: Finished glTF 2.0 export in 0.027425289154052734 s
+
+EXPORTED goo_flora_4 1 [[-2.6944992542266846, 4.364260196685791], [-3.411389112472534, 3.2421696186065674], [-0.409859836101532, 4.674198627471924]]
+13:53:05 | INFO: Starting glTF 2.0 export
+13:53:05 | INFO: Extracting primitive: karavan se
+13:53:05 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:05 | INFO: Primitives created: 1
+13:53:05 | INFO: Finished glTF 2.0 export in 0.02668595314025879 s
+
+EXPORTED karavan_sensor 1 [[-3.7226364612579346, 3.7246358394622803], [-3.793606996536255, 3.7956082820892334], [-0.0034659947268664837, 12.828553199768066]]
+D:\funny\Godot-Ryzom\godot_ryzom_poc\tools\ryzom_converter\convert_assets.py:56: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  material.use_nodes = True
+  reading 'ClassData'... 712
+  reading 'Config'... 38541
+  reading 'DllDirectory'... 2278
+  reading 'ClassDirectory3'... 3882
+  reading 'VideoPostQueue'... 52
+  reading 'Scene'... 5947800
+	skipping Camera Target 'Sun.Target'... 
+	skipping Omni 'omniland'... 
+	skipping Omni 'Gen_Bt_Silo_lampe'... 
+	skipping Omni 'Gen_Bt_Silo_lampe01'... 
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_poutre2.png
+	skipping Omni 'Gen_Bt_maison_asc'... 
+	skipping Omni 'Gen_Bt_maison_lampe_enclos'... 
+	skipping Omni 'Gen_Bt_maison_lampe_asc_ext'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_arche'... 
+	skipping Omni 'Gen_Bt_Atelier_lampe_guichet_in'... 
+	skipping Omni 'Gen_Bt_Atelier_lampe_back'... 
+	skipping Omni 'Gen_Bt_Atelier_lampe_guichet_out'... 
+	skipping Omni 'Gen_Bt_Ecole_lampe_guichet_in'... 
+	skipping Omni 'Gen_Bt_Ecole_lampe_guichet_out'... 
+	skipping Omni 'Gen_Bt_Ecole_lampe_fen_haut'... 
+	skipping Omni 'Gen_Bt_Ecole_lampe_fen_back'... 
+	skipping Omni 'Gen_Bt_Comptoir_lampe_guichet_in'... 
+	skipping Omni 'Gen_Bt_Comptoir_lampe_guichet_out'... 
+	skipping Omni 'Gen_Bt_Comptoir_lampe_back'... 
+NEL_MATERIAL g_caissebonus.png
+NEL_MATERIAL g_cordecaisse.png
+NEL_MATERIAL g_caissebonus.png
+NEL_MATERIAL g_caissebonus.png
+NEL_MATERIAL g_cordecaisse.png
+NEL_MATERIAL g_caissebonus.png
+NEL_MATERIAL g_caissebonus.png
+NEL_MATERIAL g_cordecaisse.png
+NEL_MATERIAL g_tonneau.png
+NEL_MATERIAL g_boisbarriere.png
+NEL_MATERIAL g_cuirbarriere.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_grille_metal.png
+NEL_MATERIAL g_mur3.png
+NEL_MATERIAL g_tuyau.png
+NEL_MATERIAL g_poutre.png
+NEL_MATERIAL g_poutre2.png
+NEL_MATERIAL g_boule_metal.png
+NEL_MATERIAL g_sole-type2.png
+NEL_MATERIAL g_metal_grille2_feux.png
+NEL_MATERIAL g_mur4.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_boule_metal2.png
+NEL_MATERIAL g_gaine_tuyau.png
+NEL_MATERIAL g_tiboule_metal.png
+NEL_MATERIAL g_metal_bombone.png
+NEL_MATERIAL g_plaque_metal.png
+NEL_MATERIAL g_boule_metal4.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_poutre.png
+NEL_MATERIAL g_poutre2.png
+NEL_MATERIAL g_mur3.png
+NEL_MATERIAL g_sole-type2.png
+NEL_MATERIAL g_plafondtype2.png
+NEL_MATERIAL g_mur4.png
+NEL_MATERIAL g_rondelle.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_poutre.png
+NEL_MATERIAL g_mur3.png
+NEL_MATERIAL g_sole-type2.png
+NEL_MATERIAL g_plafondtype2.png
+NEL_MATERIAL g_mur4.png
+NEL_MATERIAL g_rondelle.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_porte.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_toit.png
+NEL_MATERIAL g_maisonbase2.png
+NEL_MATERIAL g_maisonbase3.png
+NEL_MATERIAL g_poutre.png
+NEL_MATERIAL g_poutre2.png
+NEL_MATERIAL g_maisonbase1.png
+NEL_MATERIAL g_sole-type2.png
+NEL_MATERIAL g_mur4.png
+NEL_MATERIAL g_rondelle.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_lientoit.png
+NEL_MATERIAL g_sol-ecurie.png
+NEL_MATERIAL g_poutre.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_lampe_os_noir.png
+NEL_MATERIAL g_os_noir.png
+NEL_MATERIAL g_os_noir.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_maisonbase4.png
+NEL_MATERIAL g_maisonbase2.png
+NEL_MATERIAL g_maisonbase3.png
+NEL_MATERIAL g_poutre.png
+NEL_MATERIAL g_poutre2.png
+NEL_MATERIAL g_maisonbase1.png
+NEL_MATERIAL g_mur3.png
+NEL_MATERIAL g_sole-type2.png
+NEL_MATERIAL g_plafondtype2.png
+NEL_MATERIAL g_mur4.png
+NEL_MATERIAL g_rondelle.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_tower.png
+NEL_MATERIAL g_fenetre_neutre.png
+NEL_MATERIAL g_boisbarriere.png
+NEL_MATERIAL g_cuirbarriere.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_tower2.png
+NEL_MATERIAL g_toit.png
+NEL_MATERIAL g_maisonbase2.png
+NEL_MATERIAL g_maisonbase3.png
+NEL_MATERIAL g_poutre.png
+NEL_MATERIAL g_poutre2.png
+NEL_MATERIAL g_maisonbase1.png
+NEL_MATERIAL g_mur3.png
+NEL_MATERIAL g_sole-type2.png
+NEL_MATERIAL g_plafondtype2.png
+NEL_MATERIAL g_mur4.png
+NEL_MATERIAL g_rondelle.png
+NEL_MATERIAL g_centretronc.png
+NEL_MATERIAL g_mur1.png
+NEL_MATERIAL g_paille.png
+NEL_MATERIAL ['grass-tuft-foot-01.tga']
+NEL_MATERIAL []
+NEL_MATERIAL g_sol-ecurie.png
+NEL_MATERIAL g_lampe_os_noir.png
+NEL_MATERIAL g_os_noir.png
+NEL_MATERIAL g_os_noir.png
+NEL_MATERIAL g_porte.png
+	skipping Omni 'Gen_Bt_Ecurie_lampe_land'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_arche2'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_enclos'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_gichet'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_enclos01'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_gichet01'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_arche03'... 
+	skipping Omni 'Gen_Bt_maison_lampe_enclos01'... 
+	skipping Omni 'Gen_Bt_Ecurie_lampe_arche04'... 
+	skipping Omni 'Gen_Bt_maison_lampe_asc_ext01'... 
+	skipping Omni 'Gen_Bt_maison_asc01'... 
+	skipping Omni 'Gen_Bt_Comptoir_lampe_guichet_out01'... 
+	skipping Omni 'Gen_Bt_Silo_lampe02'... 
+	skipping Omni 'Gen_Bt_Atelier_lampe_guichet_out01'... 
+	skipping Omni 'Gen_Bt_Atelier_lampe_back01'... 
+	skipping Omni 'Gen_Bt_Comptoir_lampe_back01'... 
+13:53:07 | INFO: Starting glTF 2.0 export
+13:53:07 | INFO: Extracting primitive: ge_newbieland_starting_village
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | INFO: Primitives created: 105
+13:53:07 | INFO: Extracting primitive: ge_newbieland_starting_village_colext
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:07 | INFO: Primitives created: 6
+13:53:08 | INFO: Finished glTF 2.0 export in 0.9903867244720459 s
+
+EXPORTED zonematerial-foret-start_village_newbieland 2 [[25.896678924560547, 124.33714294433594], [32.26012420654297, 121.99351501464844], [-2.2121775150299072, 16.638254165649414]]
+  reading 'ClassData'... 712
+  reading 'Config'... 28089
+  reading 'DllDirectory'... 2278
+  reading 'ClassDirectory3'... 3802
+  reading 'VideoPostQueue'... 52
+  reading 'Scene'... 16482016
+	skipping Camera Target 'Sun.Target'... 
+	skipping Omni 'omniland'... 
+NEL_MATERIAL ma-bourgeons3_verues2.png
+NEL_MATERIAL ma-bourgeons3_verues.png
+NEL_MATERIAL ma-bourgeons_verrues.png
+NEL_MATERIAL ma-b-ecorce1.png
+NEL_MATERIAL ma-b-ecorce2.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma-bourgeons.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma-b-parquet.png
+NEL_MATERIAL ma-b-porte2.png
+NEL_MATERIAL ma-b-int-1.png
+NEL_MATERIAL ma-b-int-2.png
+NEL_MATERIAL ma_gazon.png
+NEL_MATERIAL ma_terre.png
+NEL_MATERIAL ma_lampe.png
+NEL_MATERIAL ['R:\\graphics\\stuff\\generique\\agents\\_textures\\accessories\\ge_mission_ruine_burn.png']
+NEL_MATERIAL ma-bourgeons3_verues2.png
+NEL_MATERIAL ma-bourgeons3_verues.png
+NEL_MATERIAL ma-bourgeons_verrues.png
+NEL_MATERIAL ma-b-int-1.png
+NEL_MATERIAL ma_ambre.png
+NEL_MATERIAL ma-b-trognon1.png
+NEL_MATERIAL ma_debris-trans.png
+NEL_MATERIAL ma_mairie2.png
+NEL_MATERIAL ma_loupiotte.png
+NEL_MATERIAL ma-bourgeons.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma_planche.png
+NEL_MATERIAL ma_agora_hublot.png
+NEL_MATERIAL ma-mairie-vitrail.png
+NEL_MATERIAL ma_agora2.png
+NEL_MATERIAL ma_agora_toit.png
+NEL_MATERIAL ma_chamignontop_2.png
+NEL_MATERIAL ma_chamignondown.png
+NEL_MATERIAL ma_portail_matis2.png
+NEL_MATERIAL ma_autel_wall.png
+NEL_MATERIAL ma_solkoupp.png
+NEL_MATERIAL ma_interbas.png
+NEL_MATERIAL ma_ascenceur.png
+NEL_MATERIAL ma-b-porte1.png
+NEL_MATERIAL ma-bourgeons3_verues2.png
+NEL_MATERIAL ma-bourgeons3_verues.png
+NEL_MATERIAL ma-bourgeons_verrues.png
+NEL_MATERIAL ma-b-ecorce1.png
+NEL_MATERIAL ma-b-ecorce2.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma-bourgeons.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma-b-parquet.png
+NEL_MATERIAL ma-b-porte2.png
+NEL_MATERIAL ma-b-int-1.png
+NEL_MATERIAL ma-b-int-2.png
+NEL_MATERIAL ma_gazon.png
+NEL_MATERIAL ma_terre.png
+NEL_MATERIAL ma_lampe.png
+NEL_MATERIAL ['R:\\graphics\\stuff\\generique\\agents\\_textures\\accessories\\ge_mission_ruine_burn.png']
+NEL_MATERIAL ma-bourgeons3_verues2.png
+NEL_MATERIAL ma-bourgeons3_verues.png
+NEL_MATERIAL ma-bourgeons_verrues.png
+NEL_MATERIAL ma-b-int-1.png
+NEL_MATERIAL ma_ambre.png
+NEL_MATERIAL ma-b-trognon1.png
+NEL_MATERIAL ma_debris-trans.png
+NEL_MATERIAL ma_mairie2.png
+NEL_MATERIAL ma_loupiotte.png
+NEL_MATERIAL ma-bourgeons.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma_planche.png
+NEL_MATERIAL ma_agora_hublot.png
+NEL_MATERIAL ma-mairie-vitrail.png
+NEL_MATERIAL ma_agora2.png
+NEL_MATERIAL ma_agora_toit.png
+NEL_MATERIAL ma_chamignontop_2.png
+NEL_MATERIAL ma_chamignondown.png
+NEL_MATERIAL ma_portail_matis2.png
+NEL_MATERIAL ma_autel_wall.png
+NEL_MATERIAL ma_solkoupp.png
+NEL_MATERIAL ma_interbas.png
+NEL_MATERIAL ma_ascenceur.png
+NEL_MATERIAL ma-b-porte1.png
+NEL_MATERIAL ma-bourgeons3_verues2.png
+NEL_MATERIAL ma-bourgeons3_verues.png
+NEL_MATERIAL ma-bourgeons_verrues.png
+NEL_MATERIAL ma-b-ecorce1.png
+NEL_MATERIAL ma-b-ecorce2.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma-bourgeons.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma-b-parquet.png
+NEL_MATERIAL ma-b-porte2.png
+NEL_MATERIAL ma-b-int-1.png
+NEL_MATERIAL ma-b-int-2.png
+NEL_MATERIAL ma_gazon.png
+NEL_MATERIAL ma_terre.png
+NEL_MATERIAL ma_lampe.png
+NEL_MATERIAL ['R:\\graphics\\stuff\\generique\\agents\\_textures\\accessories\\ge_mission_ruine_burn.png']
+NEL_MATERIAL ma-bourgeons3_verues2.png
+NEL_MATERIAL ma-bourgeons3_verues.png
+NEL_MATERIAL ma-bourgeons_verrues.png
+NEL_MATERIAL ma-b-int-1.png
+NEL_MATERIAL ma_ambre.png
+NEL_MATERIAL ma-b-trognon1.png
+NEL_MATERIAL ma_debris-trans.png
+NEL_MATERIAL ma_mairie2.png
+NEL_MATERIAL ma_loupiotte.png
+NEL_MATERIAL ma-bourgeons.png
+NEL_MATERIAL ma-b-feuilles.png
+NEL_MATERIAL ma_planche.png
+NEL_MATERIAL ma_agora_hublot.png
+NEL_MATERIAL ma-mairie-vitrail.png
+NEL_MATERIAL ma_agora2.png
+NEL_MATERIAL ma_agora_toit.png
+NEL_MATERIAL ma_chamignontop_2.png
+NEL_MATERIAL ma_chamignondown.png
+NEL_MATERIAL ma_portail_matis2.png
+NEL_MATERIAL ma_autel_wall.png
+NEL_MATERIAL ma_solkoupp.png
+NEL_MATERIAL ma_interbas.png
+NEL_MATERIAL ma_ascenceur.png
+NEL_MATERIAL ma-b-porte1.png
+13:53:09 | INFO: Starting glTF 2.0 export
+13:53:09 | INFO: Extracting primitive: Ruine_Matis
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:09 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | INFO: Primitives created: 40
+13:53:10 | INFO: Extracting primitive: Ruine_Matis_1
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | INFO: Primitives created: 40
+13:53:10 | INFO: Extracting primitive: Ruine_Matis_1_col
+13:53:10 | INFO: Primitives created: 1
+13:53:10 | INFO: Extracting primitive: Ruine_Matis_2
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:10 | INFO: Primitives created: 40
+13:53:10 | INFO: Extracting primitive: Ruine_Matis_2_col
+13:53:10 | INFO: Primitives created: 1
+13:53:11 | INFO: Finished glTF 2.0 export in 1.3687231540679932 s
+
+EXPORTED zonematerial-foret-ruines_newbieland 5 [[53.773834228515625, 307.1768798828125], [14.963729858398438, 306.1453552246094], [-1.5959806442260742, 22.75847816467285]]
+  reading 'ClassData'... 781
+  reading 'Config'... 30629
+  reading 'DllDirectory'... 2062
+  reading 'ClassDirectory3'... 3450
+  reading 'VideoPostQueue'... 52
+  reading 'Scene'... 296125
+NEL_MATERIAL fo_giant_tree_tronc_mousse_sp.png
+NEL_MATERIAL fo_giant_tree_tronc_sp.png
+NEL_MATERIAL fo_giant_tree_branche_sp.png
+NEL_MATERIAL fo_giant_tree_feuillage_sp.png
+NEL_MATERIAL fo_giant_tree_chapeau_sp.png
+13:53:11 | INFO: Starting glTF 2.0 export
+13:53:11 | INFO: Extracting primitive: FO_S1_giant_tree
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | INFO: Primitives created: 5
+13:53:11 | INFO: Finished glTF 2.0 export in 0.07735419273376465 s
+
+EXPORTED fo_s1_giant_tree 1 [[-17.098705291748047, 18.822431564331055], [-15.62182903289795, 15.169722557067871], [-3.754424571990967, 62.691349029541016]]
+  reading 'ClassData'... 781
+  reading 'Config'... 30629
+  reading 'DllDirectory'... 2062
+  reading 'ClassDirectory3'... 3450
+  reading 'VideoPostQueue'... 52
+  reading 'Scene'... 304518
+NEL_MATERIAL fo_birch_branch_sp.png
+NEL_MATERIAL fo_birch_trunk_moss_sp.png
+NEL_MATERIAL fo_birch_feuillage_sp.png
+NEL_MATERIAL fo_birch_trunk_sp.png
+NEL_MATERIAL fo_birch_trunk_2_sp.png
+NEL_MATERIAL fo_arbragrelot_feuillage_sp.png
+13:53:11 | INFO: Starting glTF 2.0 export
+13:53:11 | INFO: Extracting primitive: FO_S2_birch
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:53:11 | INFO: Primitives created: 6
+13:53:11 | INFO: Finished glTF 2.0 export in 0.09544563293457031 s
+
+EXPORTED fo_s2_birch 1 [[-2.957528829574585, 2.957529067993164], [-2.7605698108673096, 2.7605693340301514], [-0.34480470418930054, 14.728899002075195]]
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit
